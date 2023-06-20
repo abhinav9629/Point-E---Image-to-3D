@@ -1,1 +1,1 @@
-# Point-E---Image-to-3D
+# Point-E-Image-to-3D
